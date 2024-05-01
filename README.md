@@ -1,4 +1,4 @@
-### Olá! Eu so o Murilo Alves 👋
+### Olá! Eu sou o Murilo Alves 👋
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muriloalves.netlify.app)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190)
