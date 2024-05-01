@@ -16,7 +16,13 @@
     <img align="center" alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-Atualmente com 21 anos, apaixonado por tecnologia e em busca de oportunidades na Programação e Desenvolvimento. Graduando em Engenharia da Computação 6° período na faculdade Anhanguera.
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190)
-<br>Email para contato: muriloliloalves2003@gmail.com 
+<br>Email para contato: muriloliloalves2003@gmail.com
+
+Atualmente com 21 anos, apaixonado por tecnologia. Graduando em Engenharia da Computação 6° período na faculdade Anhanguera.
+
+Estudo constantemente Programação e Desenvolvimento WEB. Com muita dedicação e esforço sempre superei todos os obstáculos e não desisto diante de um desafio. Trago uma bagagem de experiência e sou uma pessoa extrovertida com excelente comunicação, proatividade e trabalho em equipe.
+
+Atuando na área da tecnologia desde os 15 anos, tenho experiência em manutenção e suporte em computadores, impressoras e equipamentos de rede. Implantação e monitoramento de firewalls, servidores windows e linux, active directory e plataformas de monitoramento e segurança de rede. Suporte em sistema ERP: Implantação e gestão do banco de dados, auxílio para emissão de notas fiscais e gestão financeira.
+
+Tenho muito orgulho da minha trajetória e onde eu cheguei. E com muita força de vontade vou alcançar novos patamares!
