@@ -16,6 +16,11 @@
     <img align="center" alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
+## Principais Projetos
+<div style="display: inline_block"><br/>
+<img align="center" alt="PROJECTS"src="https://github.com/muriloalvesx/dio-lab-open-source/assets/153781890/5b11df0d-f621-4d1c-b344-2579daa55988"/>
+</div><br/>
+
 ### Email
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190) Email para contato: muriloliloalves2003@gmail.com
 
