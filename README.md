@@ -17,7 +17,7 @@
     <img align="center" alt="c"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-Atualmente com 20 anos, apaixonado por tecnologia e em busca de oportunidades na Programação e Desenvolvimento. Graduando em Engenharia da Computação 6° período na faculdade Anhanguera.
+Atualmente com 21 anos, apaixonado por tecnologia e em busca de oportunidades na Programação e Desenvolvimento. Graduando em Engenharia da Computação 6° período na faculdade Anhanguera.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190)
 <br>Email para contato: muriloliloalves2003@gmail.com 
