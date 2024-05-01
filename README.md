@@ -1,4 +1,4 @@
-### Olá! Eu sou o Murilo Alves 👋
+## Olá! Eu sou o Murilo Alves 👋
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muriloalves.netlify.app)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190)
@@ -16,8 +16,10 @@
     <img align="center" alt="js"src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190)
-<br>Email para contato: muriloliloalves2003@gmail.com
+### Email
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190) Email para contato: muriloliloalves2003@gmail.com
+
+## Sobre
 
 Atualmente com 21 anos, apaixonado por tecnologia. Graduando em Engenharia da Computação 6° período na faculdade Anhanguera.
 
