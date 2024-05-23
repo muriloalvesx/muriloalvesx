@@ -18,7 +18,7 @@
 
 ## Principais Projetos
 <div style="display: inline_block"><br/>
-<img align="center" alt="assets"src=https://github.com/muriloalvesx/muriloalvesx/assets/153781890/e802d587-9318-4fb8-af23-aea5e815a9be/>
+<img align="center" alt="assets"src=https://github.com/muriloalvesx/muriloalvesx/assets/153781890/ef77518e-5592-4b06-86d3-30c7236a06bd/>
 </div><br/>
 
 ### Email
