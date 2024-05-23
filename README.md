@@ -18,7 +18,7 @@
 
 ## Principais Projetos
 <div style="display: inline_block"><br/>
-<img align="center" alt="PROJECTS"src="https://github.com/muriloalvesx/dio-lab-open-source/assets/153781890/5b11df0d-f621-4d1c-b344-2579daa55988"/>
+![assets](https://github.com/muriloalvesx/muriloalvesx/assets/153781890/e802d587-9318-4fb8-af23-aea5e815a9be)
 </div><br/>
 
 ### Email
