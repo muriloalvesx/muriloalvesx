@@ -5,8 +5,9 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5534998752627&text=Olá%20Murilo!)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/murilexx00/)
 
-![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloalvesx&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloalvesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="195" alt="languages graph"  />
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=muriloalvesx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloalvesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ### Tecnologias
