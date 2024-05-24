@@ -60,8 +60,8 @@
 
 Atualmente com 21 anos, apaixonado por tecnologia. Graduando em Engenharia da Computação 6° período na faculdade Anhanguera.
 
-Estudo constantemente Programação e Desenvolvimento WEB. Com muita dedicação e esforço sempre superei todos os obstáculos e não desisto diante de um desafio. Trago uma bagagem de experiência e sou uma pessoa extrovertida com excelente comunicação, proatividade e trabalho em equipe.
+Estudo constantemente Programação e Desenvolvimento. Com muita dedicação e esforço sempre superei todos os obstáculos e não desisto diante de um desafio. Trago uma bagagem de experiência e sou uma pessoa extrovertida com excelente comunicação, proatividade e trabalho em equipe.
 
-Atuando na área da tecnologia desde os 15 anos, tenho experiência em manutenção e suporte em computadores, impressoras e equipamentos de rede. Implantação e monitoramento de firewalls, servidores windows e linux, active directory e plataformas de monitoramento e segurança de rede. Suporte em sistema ERP: Implantação e gestão do banco de dados, auxílio para emissão de notas fiscais e gestão financeira.
+Atuando na área da tecnologia desde os 15 anos, tenho experiência em manutenção e suporte em computadores, impressoras e equipamentos de rede. Implantação e monitoramento de firewalls, servidores windows e linux, active directory e plataformas de monitoramento e segurança de rede. Suporte em sistema ERP: Implantação e gestão do banco de dados, auxílio para emissão de notas fiscais e gestão financeira. Atualmente estagiando em Desenvolvimento de Software na empresa Kyros Tecnologia, desenvolvendo as habilidades Java, Python e Javascript.
 
-Tenho muito orgulho da minha trajetória e onde eu cheguei. E com muita força de vontade vou alcançar novos patamares!
+Tenho muito orgulho da minha trajetória e onde eu cheguei. E com muita força de vontade e dedicação vou alcançar novos patamares!
