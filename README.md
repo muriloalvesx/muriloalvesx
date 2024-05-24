@@ -1,4 +1,4 @@
-## Olá! Eu sou o Murilo Alves 👋
+# Olá! Eu sou o Murilo Alves 👋
 
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://muriloalves.netlify.app)
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190)
@@ -10,9 +10,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muriloalvesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
+<div align="center">
+
 ### Tecnologias
 
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
@@ -40,6 +41,7 @@
     <img align="center" alt="MySQL"src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/>
     <img align="center" alt="MySQL"src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div><br/>
+
 <div align="center">
 
 ## Principais Projetos
@@ -49,6 +51,7 @@
 
 ### Email
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/murilo-alves-dos-santos-69a777190) Email para contato: muriloliloalves2003@gmail.com
+</div>
 
 ## Sobre
 
